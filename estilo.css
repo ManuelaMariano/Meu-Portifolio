@@ -1,0 +1,27 @@
+ <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #FFB6C1	;
+        }
+        .hero {
+            background: linear-gradient(135deg, hsl(315, 89%, 82%) 0%, #ffb3dc 100%);
+            color: rgb	(255,182,193);
+            padding: 100px 0;
+            text-align: center;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+        }
+        .section {
+            padding: 60px 0;
+        }
+
+        
+    
+    </style>
+</head>
+<body>
